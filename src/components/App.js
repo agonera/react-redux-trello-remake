@@ -1,13 +1,12 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-class App extends Component {
-    render() {
-        return (
-            <div>
-                
-            </div>
-        );
-    }
-}
+const App = () => {
+    return <div>
+
+    </div>
+};
 
 export default App;
+
+// PRESENTATIONAL COMPOENT
+// uses only passed props
