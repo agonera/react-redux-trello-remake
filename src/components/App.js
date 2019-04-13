@@ -8,5 +8,3 @@ const App = () => {
 
 export default App;
 
-// PRESENTATIONAL COMPOENT
-// uses only passed props

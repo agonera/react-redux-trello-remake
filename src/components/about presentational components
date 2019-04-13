@@ -1,0 +1,6 @@
+PRESENTATIONAL COMPONENTS:
+- describe the look
+- they don't know where the data comes from
+- they don't know how to change it
+- they just render what you give to them
+- no dependency on Redux

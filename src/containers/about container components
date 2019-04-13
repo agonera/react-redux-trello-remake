@@ -1,0 +1,4 @@
+CONTAINER COMPONENTS:
+- they connect presentational components to Redux
+- to use connect() -> define mapStateToProps - it describes how to transform the current store state
+  into the props (props that we pass to the presentational components)
